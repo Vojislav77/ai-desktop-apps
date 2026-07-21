@@ -2,6 +2,10 @@
 
 A collection of standalone desktop clients for popular AI chat services, packaged as AppImages. No installation – just download, make executable, and run.
 
+<img width="655" height="421" alt="ai1" src="https://github.com/user-attachments/assets/6e4707fc-be9a-44d2-898f-9c364ba1466e" />
+<img width="1484" height="1367" alt="ai2" src="https://github.com/user-attachments/assets/c72768a9-514a-4b9b-9fe3-c5ac6caa284d" />
+<img width="556" height="915" alt="ai3" src="https://github.com/user-attachments/assets/1e9f089e-2958-4147-aaa8-7c5913612bbc" />
+
 ## Included Apps
 - **DeepSeek** – chat.deepseek.com
 - **Qwen** – chat.qwen.ai
