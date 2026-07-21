@@ -6,8 +6,8 @@ A collection of standalone desktop clients for popular AI chat services, package
 - **DeepSeek** – chat.deepseek.com
 - **Qwen** – chat.qwen.ai
 - **DuckAI** – duck.ai
-- **Kimi** – www.kimi.com/en
-- **Mistral** – chat.mistral.ai/work
+- **Kimi** – www.kimi.com
+- **Mistral** – chat.mistral.ai
 - **Minimax** – agent.minimax.io
 - **ZAI** – chat.z.ai
 
@@ -84,7 +84,7 @@ Make it executable: chmod +x build-new.sh
 
     win.webContents.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-Also add webPreferences: { webSecurity: false, allowRunningInsecureContent: true } in the BrowserWindow options.
+    Also add webPreferences: { webSecurity: false, allowRunningInsecureContent: true } in the BrowserWindow options.
 
 - No icon/tray – ensure icon.png is 256x256 and placed in the app folder.
 
